@@ -13,7 +13,7 @@
 3. [Comparison & Chosen Approach](#comparison--chosen-approach)
 
 ---
-! [image1](images/Architecture.png)
+![image1](images/Architecture.png)
 
 ## 1. Objective
 The objective of this project is to install Redmine using Podman, a container management tool, configure the system, and ensure functionality through customization and testing. The Redmine tool will be installed on port 8080 and accessed through a web browser.
